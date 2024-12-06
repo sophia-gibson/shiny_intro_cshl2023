@@ -1,6 +1,8 @@
 #
 # This is a modified default shiny app using the old faithful geyser data. It was made for the 2023 Cold Spring Harbor Laboratory Computational Genomics Workshop.
 
+#Updated for the 2024 CSHL Computational Genomics Course
+
 library(shiny)
 library(ggplot2)
 library(bslib)
